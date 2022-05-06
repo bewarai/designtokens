@@ -1,0 +1,140 @@
+{
+  "Primary": {
+    "RT-font-size-0": {
+      "value": "10",
+      "type": "fontSizes"
+    },
+    "DT-font-size-1": {
+      "value": "{RT-font-size-0} * 1.12",
+      "type": "fontSizes"
+    },
+    "DT-font-size-2": {
+      "value": "{DT-font-size-1} * 1.12",
+      "type": "fontSizes"
+    },
+    "DT-font-size-3": {
+      "value": "{DT-font-size-2} * 1.12",
+      "type": "fontSizes"
+    },
+    "DT-font-size-4": {
+      "value": "{DT-font-size-3} * 1.12",
+      "type": "fontSizes"
+    },
+    "DT-font-size-5": {
+      "value": "{DT-font-size-4} * 1.12",
+      "type": "fontSizes"
+    },
+    "DT-font-size-6": {
+      "value": "{DT-font-size-5} * 1.12",
+      "type": "fontSizes"
+    },
+    "DT-font-size-7": {
+      "value": "{DT-font-size-6} * 1.12",
+      "type": "fontSizes"
+    },
+    "DT-font-size-8": {
+      "value": "{DT-font-size-7} * 1.12",
+      "type": "fontSizes"
+    },
+    "DT-font-size-9": {
+      "value": "{DT-font-size-8} * 1.12",
+      "type": "fontSizes"
+    },
+    "DT-font-size-10": {
+      "value": "{DT-font-size-9} * 1.12",
+      "type": "fontSizes"
+    },
+    "Main font": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "Bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "Black": {
+      "value": "Black",
+      "type": "fontWeights"
+    },
+    "Regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "Main text color": {
+      "value": "#3C3650",
+      "type": "color"
+    },
+    "Background": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "Secondary background": {
+      "value": "#F6F9FC",
+      "type": "color"
+    },
+    "Main brand color": {
+      "value": "#0052FF",
+      "type": "color"
+    },
+    "Secondary brand color": {
+      "value": "#0052FF",
+      "type": "color"
+    },
+    "Subcolor": {
+      "value": "#CFE6F7",
+      "type": "color"
+    },
+    "Drop shadow": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "20",
+        "spread": "10",
+        "color": "rgba(165, 205, 244, 0.25)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
+  },
+  "Secondary": {
+    "Main font": {
+      "value": "Raleway",
+      "type": "fontFamilies"
+    },
+    "Main text color": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "Background": {
+      "value": "#3C3650",
+      "type": "color"
+    },
+    "Secondary background": {
+      "value": "#0f2f42",
+      "type": "color"
+    },
+    "Main brand color": {
+      "value": "#6188ff",
+      "type": "color"
+    },
+    "Secondary brand color": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "Subcolor": {
+      "value": "#6188ff",
+      "type": "color"
+    },
+    "Drop shadow": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "20",
+        "spread": "10",
+        "color": "rgba(15, 47, 66, 0.25)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
+  }
+}

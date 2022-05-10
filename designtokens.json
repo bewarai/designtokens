@@ -68,6 +68,10 @@
       "value": "180px",
       "type": "spacing"
     },
+    "240": {
+      "value": "240px",
+      "type": "spacing"
+    },
     "RT-font-size-0": {
       "value": "10",
       "type": "fontSizes"

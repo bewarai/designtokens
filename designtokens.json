@@ -77,39 +77,39 @@
       "type": "fontSizes"
     },
     "DT-font-size-2": {
-      "value": "{DT-font-size-1} * 1.12",
+      "value": "{RT-font-size-0} * 1.254",
       "type": "fontSizes"
     },
     "DT-font-size-3": {
-      "value": "{DT-font-size-2} * 1.12",
+      "value": "{RT-font-size-0} * 1.405",
       "type": "fontSizes"
     },
     "DT-font-size-4": {
-      "value": "{DT-font-size-3} * 1.12",
+      "value": "{RT-font-size-0} * 1.574",
       "type": "fontSizes"
     },
     "DT-font-size-5": {
-      "value": "{DT-font-size-4} * 1.12",
+      "value": "{RT-font-size-0} * 1.762",
       "type": "fontSizes"
     },
     "DT-font-size-6": {
-      "value": "{DT-font-size-5} * 1.12",
+      "value": "{RT-font-size-0} * 1.974",
       "type": "fontSizes"
     },
     "DT-font-size-7": {
-      "value": "{DT-font-size-6} * 1.12",
+      "value": "{RT-font-size-0} * 2.211",
       "type": "fontSizes"
     },
     "DT-font-size-8": {
-      "value": "{DT-font-size-7} * 1.12",
+      "value": "{RT-font-size-0} * 2.476",
       "type": "fontSizes"
     },
     "DT-font-size-9": {
-      "value": "{DT-font-size-8} * 1.12",
+      "value": "{RT-font-size-0} * 2.773",
       "type": "fontSizes"
     },
     "DT-font-size-10": {
-      "value": "{DT-font-size-9} * 1.12",
+      "value": "{RT-font-size-0} * 3.106",
       "type": "fontSizes"
     },
     "Main font": {

@@ -176,23 +176,23 @@
       "type": "boxShadow"
     },
     "xs": {
-      "value": "28px",
+      "value": "$28",
       "type": "sizing"
     },
     "sm": {
-      "value": "36px",
+      "value": "$36",
       "type": "sizing"
     },
     "md": {
-      "value": "44px",
+      "value": "$44",
       "type": "sizing"
     },
     "lg": {
-      "value": "52px",
+      "value": "$52",
       "type": "sizing"
     },
     "xl": {
-      "value": "60px",
+      "value": "$60",
       "type": "sizing"
     },
     "blue-warm": {

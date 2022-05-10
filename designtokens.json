@@ -94,6 +94,26 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    },
+    "xs": {
+      "value": "28px",
+      "type": "sizing"
+    },
+    "sm": {
+      "value": "36px",
+      "type": "sizing"
+    },
+    "md": {
+      "value": "44px",
+      "type": "sizing"
+    },
+    "lg": {
+      "value": "52px",
+      "type": "sizing"
+    },
+    "xl": {
+      "value": "60px",
+      "type": "sizing"
     }
   },
   "Secondary": {

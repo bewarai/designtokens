@@ -112,6 +112,14 @@
       "value": "{RT-font-size-0} * 3.106",
       "type": "fontSizes"
     },
+    "DT-font-size-18": {
+      "value": "{RT-font-size-0} * 7.69",
+      "type": "fontSizes"
+    },
+    "DT-font-size-16": {
+      "value": "{RT-font-size-0} * 6.13",
+      "type": "fontSizes"
+    },
     "Main font": {
       "value": "Roboto",
       "type": "fontFamilies"
@@ -611,6 +619,20 @@
           "value": "#4f1c24",
           "type": "color"
         }
+      }
+    },
+    "titles": {
+      "H2": {
+        "value": "$DT-font-size-10",
+        "type": "fontSizes"
+      },
+      "H3": {
+        "value": "DT-font-size-8",
+        "type": "fontSizes"
+      },
+      "H1-super": {
+        "value": "$DT-font-size-16",
+        "type": "fontSizes"
       }
     }
   },

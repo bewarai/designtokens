@@ -354,6 +354,44 @@
         "value": "#093b44",
         "type": "color"
       }
+    },
+    "blue": {
+      "blue-5v": {
+        "value": "#e8f5ff",
+        "type": "color"
+      },
+      "blue-10v": {
+        "value": "#cfe8ff",
+        "type": "color"
+      },
+      "blue-20v": {
+        "value": "#a1d3ff",
+        "type": "color"
+      },
+      "blue-30v": {
+        "value": "#58b4ff",
+        "type": "color"
+      },
+      "blue-40v": {
+        "value": "#2491ff",
+        "type": "color"
+      },
+      "blue-50v": {
+        "value": "#0076d6",
+        "type": "color"
+      },
+      "blue-60v": {
+        "value": "#005ea2",
+        "type": "color"
+      },
+      "blue-70v": {
+        "value": "#0b4778",
+        "type": "color"
+      },
+      "blue-80v": {
+        "value": "#112f4e",
+        "type": "color"
+      }
     }
   },
   "Secondary": {

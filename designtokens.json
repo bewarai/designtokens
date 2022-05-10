@@ -129,7 +129,7 @@
       "type": "fontWeights"
     },
     "Main text color": {
-      "value": "{blue-warm.blue-warm-80v}",
+      "value": "$blue-warm.blue-warm-80v",
       "type": "color"
     },
     "Background": {
@@ -137,19 +137,19 @@
       "type": "color"
     },
     "Secondary background": {
-      "value": "#F6F9FC",
+      "value": "$gray-cool.gray-cool-2",
       "type": "color"
     },
     "Main brand color": {
-      "value": "{blue-warm.blue-warm-60v}",
+      "value": "$blue-warm.blue-warm-60v",
       "type": "color"
     },
     "Secondary brand color": {
-      "value": "{blue-warm.blue-warm-60v}",
+      "value": "$blue-warm.blue-warm-60v",
       "type": "color"
     },
     "Subcolor": {
-      "value": "#CFE6F7",
+      "value": "$blue-cool.blue-cool-10v",
       "type": "color"
     },
     "Drop shadow": {

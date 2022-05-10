@@ -322,41 +322,85 @@
       }
     },
     "cyan": {
-      "cyan-5v": {
-        "value": "#e5faff",
-        "type": "color"
+      "v": {
+        "cyan-5v": {
+          "value": "#e5faff",
+          "type": "color"
+        },
+        "cyan-10v": {
+          "value": "#a8f2ff",
+          "type": "color"
+        },
+        "cyan-20v": {
+          "value": "#52daf2",
+          "type": "color"
+        },
+        "cyan-30v": {
+          "value": "#00bde3",
+          "type": "color"
+        },
+        "cyan-40v": {
+          "value": "#009ec1",
+          "type": "color"
+        },
+        "cyan-50v": {
+          "value": "#0081a1",
+          "type": "color"
+        },
+        "cyan-60v": {
+          "value": "#00687d",
+          "type": "color"
+        },
+        "cyan-70v": {
+          "value": "#0e4f5c",
+          "type": "color"
+        },
+        "cyan-80v": {
+          "value": "#093b44",
+          "type": "color"
+        }
       },
-      "cyan-10v": {
-        "value": "#a8f2ff",
-        "type": "color"
-      },
-      "cyan-20v": {
-        "value": "#52daf2",
-        "type": "color"
-      },
-      "cyan-30v": {
-        "value": "#00bde3",
-        "type": "color"
-      },
-      "cyan-40v": {
-        "value": "#009ec1",
-        "type": "color"
-      },
-      "cyan-50v": {
-        "value": "#0081a1",
-        "type": "color"
-      },
-      "cyan-60v": {
-        "value": "#00687d",
-        "type": "color"
-      },
-      "cyan-70v": {
-        "value": "#0e4f5c",
-        "type": "color"
-      },
-      "cyan-80v": {
-        "value": "#093b44",
-        "type": "color"
+      "s": {
+        "cyan-5": {
+          "value": "#e7f6f8",
+          "type": "color"
+        },
+        "cyan-10": {
+          "value": "#ccecf2",
+          "type": "color"
+        },
+        "cyan-20": {
+          "value": "#99deea",
+          "type": "color"
+        },
+        "cyan-30": {
+          "value": "#5dc0d1",
+          "type": "color"
+        },
+        "cyan-40": {
+          "value": "#449dac",
+          "type": "color"
+        },
+        "cyan-50": {
+          "value": "#168092",
+          "type": "color"
+        },
+        "cyan-60": {
+          "value": "#2a646d",
+          "type": "color"
+        },
+        "cyan-70": {
+          "value": "#2c4a4e",
+          "type": "color"
+        },
+        "cyan-80": {
+          "value": "#203133",
+          "type": "color"
+        },
+        "cyan-90": {
+          "value": "#111819",
+          "type": "color"
+        }
       }
     },
     "blue": {

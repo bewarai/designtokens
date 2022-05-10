@@ -678,6 +678,64 @@
     "xxl": {
       "value": "$68",
       "type": "sizing"
+    },
+    "gray": {
+      "gray-1": {
+        "value": "#fcfcfc",
+        "type": "color"
+      },
+      "gray-2": {
+        "value": "#f9f9f9",
+        "type": "color"
+      },
+      "gray-3": {
+        "value": "#f6f6f6",
+        "type": "color"
+      },
+      "gray-4": {
+        "value": "#f3f3f3",
+        "type": "color"
+      },
+      "gray-5": {
+        "value": "#f0f0f0",
+        "type": "color"
+      },
+      "gray-10": {
+        "value": "#e6e6e6",
+        "type": "color"
+      },
+      "gray-20": {
+        "value": "#c9c9c9",
+        "type": "color"
+      },
+      "gray-30": {
+        "value": "#adadad",
+        "type": "color"
+      },
+      "gray-40": {
+        "value": "#919191",
+        "type": "color"
+      },
+      "gray-50": {
+        "value": "#757575",
+        "type": "color"
+      },
+      "gray-60": {
+        "value": "#5c5c5c",
+        "type": "color"
+      },
+      "gray-70": {
+        "value": "#454545",
+        "type": "color"
+      },
+      "gray-80": {
+        "value": "#2e2e2e",
+        "type": "color"
+      },
+      "gray-90": {
+        "value": "#1b1b1b",
+        "type": "color"
+      }
     }
   },
   "Secondary": {

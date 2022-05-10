@@ -360,41 +360,85 @@
       }
     },
     "blue": {
-      "blue-5v": {
-        "value": "#e8f5ff",
-        "type": "color"
+      "v": {
+        "blue-5v": {
+          "value": "#e8f5ff",
+          "type": "color"
+        },
+        "blue-10v": {
+          "value": "#cfe8ff",
+          "type": "color"
+        },
+        "blue-20v": {
+          "value": "#a1d3ff",
+          "type": "color"
+        },
+        "blue-30v": {
+          "value": "#58b4ff",
+          "type": "color"
+        },
+        "blue-40v": {
+          "value": "#2491ff",
+          "type": "color"
+        },
+        "blue-50v": {
+          "value": "#0076d6",
+          "type": "color"
+        },
+        "blue-60v": {
+          "value": "#005ea2",
+          "type": "color"
+        },
+        "blue-70v": {
+          "value": "#0b4778",
+          "type": "color"
+        },
+        "blue-80v": {
+          "value": "#112f4e",
+          "type": "color"
+        }
       },
-      "blue-10v": {
-        "value": "#cfe8ff",
-        "type": "color"
-      },
-      "blue-20v": {
-        "value": "#a1d3ff",
-        "type": "color"
-      },
-      "blue-30v": {
-        "value": "#58b4ff",
-        "type": "color"
-      },
-      "blue-40v": {
-        "value": "#2491ff",
-        "type": "color"
-      },
-      "blue-50v": {
-        "value": "#0076d6",
-        "type": "color"
-      },
-      "blue-60v": {
-        "value": "#005ea2",
-        "type": "color"
-      },
-      "blue-70v": {
-        "value": "#0b4778",
-        "type": "color"
-      },
-      "blue-80v": {
-        "value": "#112f4e",
-        "type": "color"
+      "s": {
+        "blue-5": {
+          "value": "#eff6fb",
+          "type": "color"
+        },
+        "blue-10": {
+          "value": "#d9e8f6",
+          "type": "color"
+        },
+        "blue-20": {
+          "value": "#aacdec",
+          "type": "color"
+        },
+        "blue-30": {
+          "value": "#73b3e7",
+          "type": "color"
+        },
+        "blue-40": {
+          "value": "#4f97d1",
+          "type": "color"
+        },
+        "blue-50": {
+          "value": "#2378c3",
+          "type": "color"
+        },
+        "blue-60": {
+          "value": "#2c608a",
+          "type": "color"
+        },
+        "blue-70": {
+          "value": "#274863",
+          "type": "color"
+        },
+        "blue-80": {
+          "value": "#1f303e",
+          "type": "color"
+        },
+        "blue-90": {
+          "value": "#11181d",
+          "type": "color"
+        }
       }
     }
   },
@@ -416,7 +460,7 @@
       "type": "color"
     },
     "Main brand color": {
-      "value": "$blue.blue-40v",
+      "value": "{blue.v.blue-40v}",
       "type": "color"
     },
     "Secondary brand color": {
@@ -424,7 +468,7 @@
       "type": "color"
     },
     "Subcolor": {
-      "value": "$blue.blue-40v",
+      "value": "{blue.v.blue-40v}",
       "type": "color"
     },
     "Drop shadow": {

@@ -128,11 +128,11 @@
       "value": "Regular",
       "type": "fontWeights"
     },
-    "Main text color": {
+    "Primary text color": {
       "value": "{blue-warm.v.blue-warm-80v}",
       "type": "color"
     },
-    "Background": {
+    "Primary background": {
       "value": "#fff",
       "type": "color"
     },
@@ -140,7 +140,7 @@
       "value": "$gray-cool.gray-cool-2",
       "type": "color"
     },
-    "Main brand color": {
+    "Primary brand color": {
       "value": "{blue-warm.v.blue-warm-60v}",
       "type": "color"
     },
@@ -148,7 +148,7 @@
       "value": "{blue-warm.v.blue-warm-60v}",
       "type": "color"
     },
-    "Subcolor": {
+    "Tertiary brand color": {
       "value": "{blue-cool.v.blue-cool-10v}",
       "type": "color"
     },
@@ -579,11 +579,11 @@
       "value": "Raleway",
       "type": "fontFamilies"
     },
-    "Main text color": {
+    "Primary text color": {
       "value": "#fff",
       "type": "color"
     },
-    "Background": {
+    "Primary background": {
       "value": "{blue-cool.v.blue-cool-80v}",
       "type": "color"
     },
@@ -591,7 +591,7 @@
       "value": "{blue-cool.v.blue-cool-90v}",
       "type": "color"
     },
-    "Main brand color": {
+    "Primary brand color": {
       "value": "{blue.v.blue-40v}",
       "type": "color"
     },
@@ -599,7 +599,7 @@
       "value": "#fff",
       "type": "color"
     },
-    "Subcolor": {
+    "Tertiary brand color": {
       "value": "{blue.v.blue-40v}",
       "type": "color"
     },

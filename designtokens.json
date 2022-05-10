@@ -60,6 +60,14 @@
       "value": "60px",
       "type": "spacing"
     },
+    "64": {
+      "value": "64px",
+      "type": "spacing"
+    },
+    "68": {
+      "value": "68px",
+      "type": "spacing"
+    },
     "120": {
       "value": "120px",
       "type": "spacing"
@@ -174,6 +182,10 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    },
+    "xxs": {
+      "value": "$20",
+      "type": "sizing"
     },
     "xs": {
       "value": "$28",
@@ -658,6 +670,10 @@
         "value": "$DT-font-size-3",
         "type": "fontSizes"
       }
+    },
+    "xxl": {
+      "value": "$68",
+      "type": "sizing"
     }
   },
   "Secondary": {

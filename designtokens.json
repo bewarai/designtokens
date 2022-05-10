@@ -80,57 +80,61 @@
       "value": "240px",
       "type": "spacing"
     },
-    "RT-font-size-0": {
-      "value": "10",
-      "type": "fontSizes"
+    "root": {
+      "RT-font-size-0": {
+        "value": "10",
+        "type": "fontSizes"
+      }
     },
-    "DT-font-size-1": {
-      "value": "{RT-font-size-0} * 1.12",
-      "type": "fontSizes"
-    },
-    "DT-font-size-2": {
-      "value": "{RT-font-size-0} * 1.254",
-      "type": "fontSizes"
-    },
-    "DT-font-size-3": {
-      "value": "{RT-font-size-0} * 1.405",
-      "type": "fontSizes"
-    },
-    "DT-font-size-4": {
-      "value": "{RT-font-size-0} * 1.574",
-      "type": "fontSizes"
-    },
-    "DT-font-size-5": {
-      "value": "{RT-font-size-0} * 1.762",
-      "type": "fontSizes"
-    },
-    "DT-font-size-6": {
-      "value": "{RT-font-size-0} * 1.974",
-      "type": "fontSizes"
-    },
-    "DT-font-size-7": {
-      "value": "{RT-font-size-0} * 2.211",
-      "type": "fontSizes"
-    },
-    "DT-font-size-8": {
-      "value": "{RT-font-size-0} * 2.476",
-      "type": "fontSizes"
-    },
-    "DT-font-size-9": {
-      "value": "{RT-font-size-0} * 2.773",
-      "type": "fontSizes"
-    },
-    "DT-font-size-10": {
-      "value": "{RT-font-size-0} * 3.106",
-      "type": "fontSizes"
-    },
-    "DT-font-size-18": {
-      "value": "{RT-font-size-0} * 7.69",
-      "type": "fontSizes"
-    },
-    "DT-font-size-16": {
-      "value": "{RT-font-size-0} * 6.13",
-      "type": "fontSizes"
+    "desktop": {
+      "DT-font-size-1": {
+        "value": "{root.RT-font-size-0} * 1.12",
+        "type": "fontSizes"
+      },
+      "DT-font-size-2": {
+        "value": "{root.RT-font-size-0} * 1.254",
+        "type": "fontSizes"
+      },
+      "DT-font-size-3": {
+        "value": "{root.RT-font-size-0} * 1.405",
+        "type": "fontSizes"
+      },
+      "DT-font-size-4": {
+        "value": "{root.RT-font-size-0} * 1.574",
+        "type": "fontSizes"
+      },
+      "DT-font-size-5": {
+        "value": "{root.RT-font-size-0} * 1.762",
+        "type": "fontSizes"
+      },
+      "DT-font-size-6": {
+        "value": "{root.RT-font-size-0} * 1.974",
+        "type": "fontSizes"
+      },
+      "DT-font-size-7": {
+        "value": "{root.RT-font-size-0} * 2.211",
+        "type": "fontSizes"
+      },
+      "DT-font-size-8": {
+        "value": "{root.RT-font-size-0} * 2.476",
+        "type": "fontSizes"
+      },
+      "DT-font-size-9": {
+        "value": "{root.RT-font-size-0} * 2.773",
+        "type": "fontSizes"
+      },
+      "DT-font-size-10": {
+        "value": "{root.RT-font-size-0} * 3.106",
+        "type": "fontSizes"
+      },
+      "DT-font-size-18": {
+        "value": "{root.RT-font-size-0} * 7.69",
+        "type": "fontSizes"
+      },
+      "DT-font-size-16": {
+        "value": "{root.RT-font-size-0} * 6.13",
+        "type": "fontSizes"
+      }
     },
     "Main font": {
       "value": "Roboto",
@@ -639,35 +643,35 @@
     },
     "titles": {
       "h1-super": {
-        "value": "$DT-font-size-16",
+        "value": "{desktop.DT-font-size-16}",
         "type": "fontSizes"
       },
       "h2": {
-        "value": "$DT-font-size-10",
+        "value": "{desktop.DT-font-size-10}",
         "type": "fontSizes"
       },
       "h3": {
-        "value": "$DT-font-size-8",
+        "value": "{desktop.DT-font-size-8}",
         "type": "fontSizes"
       }
     },
     "paragraphes": {
       "p1": {
-        "value": "$DT-font-size-7",
+        "value": "{desktop.DT-font-size-7}",
         "type": "fontSizes"
       },
       "p2": {
-        "value": "$DT-font-size-4",
+        "value": "{desktop.DT-font-size-4}",
         "type": "fontSizes"
       }
     },
     "footer": {
       "a": {
-        "value": "$DT-font-size-3",
+        "value": "{desktop.DT-font-size-3}",
         "type": "fontSizes"
       },
       "contact": {
-        "value": "$DT-font-size-3",
+        "value": "{desktop.DT-font-size-3}",
         "type": "fontSizes"
       }
     },

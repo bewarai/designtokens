@@ -315,6 +315,10 @@
       "blue-cool-80v": {
         "value": "#002d3f",
         "type": "color"
+      },
+      "blue-cool-90v": {
+        "value": "#00222f",
+        "type": "color"
       }
     },
     "cyan": {
@@ -408,11 +412,11 @@
       "type": "color"
     },
     "Secondary background": {
-      "value": "$blue-cool.blue-cool-70v",
+      "value": "$blue-cool.blue-cool-90v",
       "type": "color"
     },
     "Main brand color": {
-      "value": "#6188ff",
+      "value": "$blue.blue-40v",
       "type": "color"
     },
     "Secondary brand color": {
@@ -420,7 +424,7 @@
       "type": "color"
     },
     "Subcolor": {
-      "value": "#6188ff",
+      "value": "$blue.blue-40v",
       "type": "color"
     },
     "Drop shadow": {

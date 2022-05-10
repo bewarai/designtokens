@@ -622,16 +622,36 @@
       }
     },
     "titles": {
-      "H2": {
+      "h1-super": {
+        "value": "$DT-font-size-16",
+        "type": "fontSizes"
+      },
+      "h2": {
         "value": "$DT-font-size-10",
         "type": "fontSizes"
       },
-      "H3": {
-        "value": "DT-font-size-8",
+      "h3": {
+        "value": "$DT-font-size-8",
+        "type": "fontSizes"
+      }
+    },
+    "paragraphes": {
+      "p1": {
+        "value": "$DT-font-size-7",
         "type": "fontSizes"
       },
-      "H1-super": {
-        "value": "$DT-font-size-16",
+      "p2": {
+        "value": "$DT-font-size-4",
+        "type": "fontSizes"
+      }
+    },
+    "footer": {
+      "a": {
+        "value": "$DT-font-size-3",
+        "type": "fontSizes"
+      },
+      "contact": {
+        "value": "$DT-font-size-3",
         "type": "fontSizes"
       }
     }

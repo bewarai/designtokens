@@ -129,7 +129,7 @@
       "type": "fontWeights"
     },
     "Main text color": {
-      "value": "$blue-warm-80v",
+      "value": "{blue-warm.blue-warm-80v}",
       "type": "color"
     },
     "Background": {
@@ -141,11 +141,11 @@
       "type": "color"
     },
     "Main brand color": {
-      "value": "$blue-warm-60v",
+      "value": "{blue-warm.blue-warm-60v}",
       "type": "color"
     },
     "Secondary brand color": {
-      "value": "$blue-warm-60v",
+      "value": "{blue-warm.blue-warm-60v}",
       "type": "color"
     },
     "Subcolor": {
@@ -183,41 +183,101 @@
       "value": "60px",
       "type": "sizing"
     },
-    "blue-warm-5v": {
-      "value": "#edf5ff",
-      "type": "color"
+    "blue-warm": {
+      "blue-warm-5v": {
+        "value": "#edf5ff",
+        "type": "color"
+      },
+      "blue-warm-10v": {
+        "value": "#d4e5ff",
+        "type": "color"
+      },
+      "blue-warm-20v": {
+        "value": "#adcdff",
+        "type": "color"
+      },
+      "blue-warm-30v": {
+        "value": "#81aefc",
+        "type": "color"
+      },
+      "blue-warm-40v": {
+        "value": "#5994f6",
+        "type": "color"
+      },
+      "blue-warm-50v": {
+        "value": "#2672de",
+        "type": "color"
+      },
+      "blue-warm-60v": {
+        "value": "#0050d8",
+        "type": "color"
+      },
+      "blue-warm-70v": {
+        "value": "#1a4480",
+        "type": "color"
+      },
+      "blue-warm-80v": {
+        "value": "#162e51",
+        "type": "color"
+      }
     },
-    "blue-warm-10v": {
-      "value": "#d4e5ff",
-      "type": "color"
-    },
-    "blue-warm-20v": {
-      "value": "#adcdff",
-      "type": "color"
-    },
-    "blue-warm-30v": {
-      "value": "#81aefc",
-      "type": "color"
-    },
-    "blue-warm-40v": {
-      "value": "#5994f6",
-      "type": "color"
-    },
-    "blue-warm-50v": {
-      "value": "#2672de",
-      "type": "color"
-    },
-    "blue-warm-60v": {
-      "value": "#0050d8",
-      "type": "color"
-    },
-    "blue-warm-70v": {
-      "value": "#1a4480",
-      "type": "color"
-    },
-    "blue-warm-80v": {
-      "value": "#162e51",
-      "type": "color"
+    "gray-cool": {
+      "gray-cool-1": {
+        "value": "#fbfcfd",
+        "type": "color"
+      },
+      "gray-cool-2": {
+        "value": "#f7f9fa",
+        "type": "color"
+      },
+      "gray-cool-3": {
+        "value": "#f5f6f7",
+        "type": "color"
+      },
+      "gray-cool-4": {
+        "value": "#f1f3f6",
+        "type": "color"
+      },
+      "gray-cool-5": {
+        "value": "#edeff0",
+        "type": "color"
+      },
+      "gray-cool-10": {
+        "value": "#dfe1e2",
+        "type": "color"
+      },
+      "gray-cool-20": {
+        "value": "#c6cace",
+        "type": "color"
+      },
+      "gray-cool-30": {
+        "value": "#a9aeb1",
+        "type": "color"
+      },
+      "gray-cool-40": {
+        "value": "#8d9297",
+        "type": "color"
+      },
+      "gray-cool-50": {
+        "value": "#71767a",
+        "type": "color"
+      },
+      "gray-cool-60": {
+        "value": "#565c65",
+        "type": "color"
+      },
+      "gray-cool-70": {
+        "value": "#3d4551",
+        "type": "color"
+      },
+      "gray-cool-80": {
+        "value": "#2d2e2f",
+        "type": "color"
+      },
+      "gray-cool-90": {
+        "value": "#1c1d1f",
+        "type": "color"
+      }
     }
   },
   "Secondary": {

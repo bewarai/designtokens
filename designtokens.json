@@ -158,7 +158,7 @@
         "y": "0",
         "blur": "20",
         "spread": "10",
-        "color": "rgba(165, 205, 244, 0.25)",
+        "color": "rgba(212, 229, 255, 0.25)",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -433,7 +433,7 @@
         "y": "0",
         "blur": "20",
         "spread": "10",
-        "color": "rgba(15, 47, 66, 0.25)",
+        "color": "rgba(0, 34, 47, 0.50)",
         "type": "dropShadow"
       },
       "type": "boxShadow"

@@ -572,6 +572,46 @@
           "type": "color"
         }
       }
+    },
+    "red-cool": {
+      "v": {
+        "red-cool-5v": {
+          "value": "#fff2f5",
+          "type": "color"
+        },
+        "red-cool-10v": {
+          "value": "#f8dfe2",
+          "type": "color"
+        },
+        "red-cool-20v": {
+          "value": "#f8b9c5",
+          "type": "color"
+        },
+        "red-cool-30v": {
+          "value": "#fd8ba0",
+          "type": "color"
+        },
+        "red-cool-40v": {
+          "value": "#f45d79",
+          "type": "color"
+        },
+        "red-cool-50v": {
+          "value": "#e41d3d",
+          "type": "color"
+        },
+        "red-cool-60v": {
+          "value": "#b21d38",
+          "type": "color"
+        },
+        "red-cool-70v": {
+          "value": "#822133",
+          "type": "color"
+        },
+        "red-cool-80v": {
+          "value": "#4f1c24",
+          "type": "color"
+        }
+      }
     }
   },
   "Secondary": {

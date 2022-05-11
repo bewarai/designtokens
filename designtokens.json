@@ -166,17 +166,23 @@
         "type": "color"
       }
     },
-    "Primary brand color": {
-      "value": "{blue-warm.v.blue-warm-60v}",
-      "type": "color"
+    "primary": {
+      "maincolor": {
+        "value": "{blue-warm.v.blue-warm-60v}",
+        "type": "color"
+      }
     },
-    "Secondary brand color": {
-      "value": "{blue-warm.v.blue-warm-60v}",
-      "type": "color"
+    "secondary": {
+      "maincolor": {
+        "value": "{blue-warm.v.blue-warm-60v}",
+        "type": "color"
+      }
     },
-    "Tertiary brand color": {
-      "value": "{blue-cool.v.blue-cool-10v}",
-      "type": "color"
+    "tertiary": {
+      "maincolor": {
+        "value": "{blue-cool.v.blue-cool-10v}",
+        "type": "color"
+      }
     },
     "Drop shadow": {
       "value": {
@@ -759,17 +765,23 @@
         "type": "color"
       }
     },
-    "Primary brand color": {
-      "value": "{blue.v.blue-40v}",
-      "type": "color"
+    "primary": {
+      "maincolor": {
+        "value": "{blue.v.blue-40v}",
+        "type": "color"
+      }
     },
-    "Secondary brand color": {
-      "value": "#fff",
-      "type": "color"
+    "secondary": {
+      "maincolor": {
+        "value": "#fff",
+        "type": "color"
+      }
     },
-    "Tertiary brand color": {
-      "value": "{blue.v.blue-40v}",
-      "type": "color"
+    "tertiary": {
+      "maincolor": {
+        "value": "{blue.v.blue-40v}",
+        "type": "color"
+      }
     },
     "Drop shadow": {
       "value": {

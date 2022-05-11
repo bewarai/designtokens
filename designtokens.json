@@ -152,17 +152,19 @@
       "value": "Regular",
       "type": "fontWeights"
     },
-    "Primary text color": {
-      "value": "{blue-warm.v.blue-warm-80v}",
-      "type": "color"
-    },
-    "Primary background": {
-      "value": "#fff",
-      "type": "color"
-    },
-    "Secondary background": {
-      "value": "$gray-cool.gray-cool-2",
-      "type": "color"
+    "base": {
+      "primary-text": {
+        "value": "{blue-warm.v.blue-warm-80v}",
+        "type": "color"
+      },
+      "primary-background": {
+        "value": "#fff",
+        "type": "color"
+      },
+      "secondary-background": {
+        "value": "$gray-cool.gray-cool-2",
+        "type": "color"
+      }
     },
     "Primary brand color": {
       "value": "{blue-warm.v.blue-warm-60v}",
@@ -743,17 +745,19 @@
       "value": "Raleway",
       "type": "fontFamilies"
     },
-    "Primary text color": {
-      "value": "#fff",
-      "type": "color"
-    },
-    "Primary background": {
-      "value": "{blue-cool.v.blue-cool-80v}",
-      "type": "color"
-    },
-    "Secondary background": {
-      "value": "{blue-cool.v.blue-cool-90v}",
-      "type": "color"
+    "base": {
+      "primary-text": {
+        "value": "#fff",
+        "type": "color"
+      },
+      "primary-background": {
+        "value": "{blue-cool.v.blue-cool-80v}",
+        "type": "color"
+      },
+      "secondary-background": {
+        "value": "{blue-cool.v.blue-cool-90v}",
+        "type": "color"
+      }
     },
     "Primary brand color": {
       "value": "{blue.v.blue-40v}",

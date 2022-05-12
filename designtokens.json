@@ -676,12 +676,32 @@
       }
     },
     "paragraphes": {
-      "p1": {
+      "body-xxl": {
         "value": "{desktop.DT-font-size-7}",
         "type": "fontSizes"
       },
-      "p2": {
+      "body-xl": {
+        "value": "{desktop.DT-font-size-6}",
+        "type": "fontSizes"
+      },
+      "body-l": {
+        "value": "{desktop.DT-font-size-5}",
+        "type": "fontSizes"
+      },
+      "body-m": {
         "value": "{desktop.DT-font-size-4}",
+        "type": "fontSizes"
+      },
+      "body-s": {
+        "value": "{desktop.DT-font-size-3}",
+        "type": "fontSizes"
+      },
+      "body-xs": {
+        "value": "{desktop.DT-font-size-2}",
+        "type": "fontSizes"
+      },
+      "body-xxs": {
+        "value": "{desktop.DT-font-size-1}",
         "type": "fontSizes"
       }
     },

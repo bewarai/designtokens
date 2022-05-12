@@ -808,6 +808,30 @@
         "value": "#1b1b1b",
         "type": "color"
       }
+    },
+    "lh-100": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
+    "lh-110": {
+      "value": "110%",
+      "type": "lineHeights"
+    },
+    "lh-120": {
+      "value": "120%",
+      "type": "lineHeights"
+    },
+    "lh-130": {
+      "value": "130%",
+      "type": "lineHeights"
+    },
+    "lh-140": {
+      "value": "140%",
+      "type": "lineHeights"
+    },
+    "lh-150": {
+      "value": "150%",
+      "type": "lineHeights"
     }
   },
   "Secondary": {

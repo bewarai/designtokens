@@ -140,16 +140,28 @@
       "value": "Roboto",
       "type": "fontFamilies"
     },
+    "Light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "Regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "Medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "Semibold": {
+      "value": "Semibold",
+      "type": "fontWeights"
+    },
     "Bold": {
       "value": "Bold",
       "type": "fontWeights"
     },
     "Black": {
       "value": "Black",
-      "type": "fontWeights"
-    },
-    "Regular": {
-      "value": "Regular",
       "type": "fontWeights"
     },
     "base": {

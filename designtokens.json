@@ -662,7 +662,7 @@
       }
     },
     "titles": {
-      "h1-super": {
+      "heading-xxl": {
         "value": "{desktop.DT-font-size-16}",
         "type": "fontSizes"
       },

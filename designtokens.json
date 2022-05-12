@@ -666,12 +666,24 @@
         "value": "{desktop.DT-font-size-16}",
         "type": "fontSizes"
       },
-      "h2": {
+      "heading-l": {
         "value": "{desktop.DT-font-size-10}",
         "type": "fontSizes"
       },
-      "h3": {
+      "heading-m": {
         "value": "{desktop.DT-font-size-8}",
+        "type": "fontSizes"
+      },
+      "heading-s": {
+        "value": "{desktop.DT-font-size-7}",
+        "type": "fontSizes"
+      },
+      "heading-xs": {
+        "value": "{desktop.DT-font-size-6}",
+        "type": "fontSizes"
+      },
+      "heading-xxs": {
+        "value": "{desktop.DT-font-size-5}",
         "type": "fontSizes"
       }
     },

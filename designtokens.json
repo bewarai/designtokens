@@ -127,12 +127,16 @@
         "value": "{root.RT-font-size-0} * 3.106",
         "type": "fontSizes"
       },
-      "DT-font-size-18": {
-        "value": "{root.RT-font-size-0} * 7.69",
+      "DT-font-size-12": {
+        "value": "{root.RT-font-size-0} * 3.896",
         "type": "fontSizes"
       },
       "DT-font-size-16": {
         "value": "{root.RT-font-size-0} * 6.13",
+        "type": "fontSizes"
+      },
+      "DT-font-size-18": {
+        "value": "{root.RT-font-size-0} * 7.69",
         "type": "fontSizes"
       }
     },
@@ -664,6 +668,10 @@
     "titles": {
       "heading-xxl": {
         "value": "{desktop.DT-font-size-16}",
+        "type": "fontSizes"
+      },
+      "heading-xl": {
+        "value": "{desktop.DT-font-size-12}",
         "type": "fontSizes"
       },
       "heading-l": {

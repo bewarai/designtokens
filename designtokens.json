@@ -219,27 +219,27 @@
       },
       "type": "boxShadow"
     },
-    "2xs": {
+    "sz-2xs": {
       "value": "$20",
       "type": "sizing"
     },
-    "xs": {
+    "sz-xs": {
       "value": "$28",
       "type": "sizing"
     },
-    "sm": {
+    "sz-sm": {
       "value": "$36",
       "type": "sizing"
     },
-    "md": {
+    "sz-md": {
       "value": "$44",
       "type": "sizing"
     },
-    "lg": {
+    "sz-lg": {
       "value": "$52",
       "type": "sizing"
     },
-    "xl": {
+    "sz-xl": {
       "value": "$60",
       "type": "sizing"
     },
@@ -743,7 +743,7 @@
         "type": "fontSizes"
       }
     },
-    "2xl": {
+    "sz-2xl": {
       "value": "$68",
       "type": "sizing"
     },
@@ -828,6 +828,34 @@
     "lh-150": {
       "value": "150%",
       "type": "lineHeights"
+    },
+    "br-2xs": {
+      "value": "$4",
+      "type": "borderRadius"
+    },
+    "br-xs": {
+      "value": "$8",
+      "type": "borderRadius"
+    },
+    "br-sm": {
+      "value": "$12",
+      "type": "borderRadius"
+    },
+    "br-md": {
+      "value": "$16",
+      "type": "borderRadius"
+    },
+    "br-lg": {
+      "value": "$20",
+      "type": "borderRadius"
+    },
+    "br-xl": {
+      "value": "$24",
+      "type": "borderRadius"
+    },
+    "br-2xl": {
+      "value": "$28",
+      "type": "borderRadius"
     }
   },
   "Secondary": {

@@ -219,7 +219,7 @@
       },
       "type": "boxShadow"
     },
-    "xxs": {
+    "2xs": {
       "value": "$20",
       "type": "sizing"
     },
@@ -674,11 +674,11 @@
       }
     },
     "titles": {
-      "heading-xxxl": {
+      "heading-3xl": {
         "value": "{desktop.DT-font-size-16}",
         "type": "fontSizes"
       },
-      "heading-xxl": {
+      "heading-2xl": {
         "value": "{desktop.DT-font-size-14}",
         "type": "fontSizes"
       },
@@ -707,14 +707,14 @@
         "type": "fontSizes",
         "description": "H5"
       },
-      "heading-xxs": {
+      "heading-2xs": {
         "value": "{desktop.DT-font-size-5}",
         "type": "fontSizes",
         "description": "H6"
       }
     },
     "paragraphes": {
-      "body-xxl": {
+      "body-2xl": {
         "value": "{desktop.DT-font-size-7}",
         "type": "fontSizes"
       },
@@ -738,12 +738,12 @@
         "value": "{desktop.DT-font-size-2}",
         "type": "fontSizes"
       },
-      "body-xxs": {
+      "body-2xs": {
         "value": "{desktop.DT-font-size-1}",
         "type": "fontSizes"
       }
     },
-    "xxl": {
+    "2xl": {
       "value": "$68",
       "type": "sizing"
     },

@@ -1,13 +1,5 @@
 {
   "Primary": {
-    "4": {
-      "value": "4px",
-      "type": "other"
-    },
-    "8": {
-      "value": "8px",
-      "type": "other"
-    },
     "12": {
       "value": "12px",
       "type": "other"
@@ -81,83 +73,83 @@
       "type": "other"
     },
     "sp-4": {
-      "value": "4px",
+      "value": "$04",
       "type": "spacing"
     },
     "sp-8": {
-      "value": "8px",
+      "value": "$08",
       "type": "spacing"
     },
     "sp-12": {
-      "value": "12px",
+      "value": "$12",
       "type": "spacing"
     },
     "sp-16": {
-      "value": "16px",
+      "value": "$16",
       "type": "spacing"
     },
     "sp-20": {
-      "value": "20px",
+      "value": "$20",
       "type": "spacing"
     },
     "sp-24": {
-      "value": "24px",
+      "value": "$24",
       "type": "spacing"
     },
     "sp-28": {
-      "value": "28px",
+      "value": "$28",
       "type": "spacing"
     },
     "sp-32": {
-      "value": "32px",
+      "value": "$32",
       "type": "spacing"
     },
     "sp-36": {
-      "value": "36px",
+      "value": "$36",
       "type": "spacing"
     },
     "sp-40": {
-      "value": "40px",
+      "value": "$40",
       "type": "spacing"
     },
     "sp-44": {
-      "value": "44px",
+      "value": "$44",
       "type": "spacing"
     },
     "sp-48": {
-      "value": "48px",
+      "value": "$48",
       "type": "spacing"
     },
     "sp-52": {
-      "value": "52px",
+      "value": "$52",
       "type": "spacing"
     },
     "sp-56": {
-      "value": "56px",
+      "value": "$56",
       "type": "spacing"
     },
     "sp-60": {
-      "value": "60px",
+      "value": "$60",
       "type": "spacing"
     },
     "sp-64": {
-      "value": "64px",
+      "value": "$64",
       "type": "spacing"
     },
     "sp-68": {
-      "value": "68px",
+      "value": "$68",
       "type": "spacing"
     },
     "sp-120": {
-      "value": "120px",
+      "value": "$120",
       "type": "spacing"
     },
     "sp-180": {
-      "value": "180px",
+      "value": "$180",
       "type": "spacing"
     },
     "sp-240": {
-      "value": "240px",
+      "value": "$240",
       "type": "spacing"
     },
     "root": {
@@ -936,6 +928,14 @@
     "br-2xl": {
       "value": "{sp-28}",
       "type": "borderRadius"
+    },
+    "04": {
+      "value": "4px",
+      "type": "other"
+    },
+    "08": {
+      "value": "8px",
+      "type": "other"
     }
   },
   "Secondary": {

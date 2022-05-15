@@ -936,6 +936,18 @@
     "08": {
       "value": "8px",
       "type": "other"
+    },
+    "01": {
+      "value": "1px",
+      "type": "other"
+    },
+    "02": {
+      "value": "2px",
+      "type": "other"
+    },
+    "border": {
+      "value": "$01",
+      "type": "borderWidth"
     }
   },
   "Secondary": {

@@ -798,12 +798,12 @@
         "value": "{desktop.DT-font-size-5}",
         "type": "fontSizes"
       },
-      "body-m": {
-        "value": "{desktop.DT-font-size-4}",
-        "type": "fontSizes"
-      },
       "body-s": {
         "value": "{desktop.DT-font-size-3}",
+        "type": "fontSizes"
+      },
+      "body-m": {
+        "value": "{desktop.DT-font-size-4}",
         "type": "fontSizes"
       },
       "body-xs": {

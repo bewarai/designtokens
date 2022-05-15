@@ -292,27 +292,27 @@
       "type": "boxShadow"
     },
     "sz-2xs": {
-      "value": "{sp-20}",
+      "value": "{20}",
       "type": "sizing"
     },
     "sz-xs": {
-      "value": "{sp-28}",
+      "value": "{28}",
       "type": "sizing"
     },
     "sz-sm": {
-      "value": "{sp-36}",
+      "value": "{36}",
       "type": "sizing"
     },
     "sz-md": {
-      "value": "{sp-44}",
+      "value": "{44}",
       "type": "sizing"
     },
     "sz-lg": {
-      "value": "{sp-52}",
+      "value": "{52}",
       "type": "sizing"
     },
     "sz-xl": {
-      "value": "{sp-60}",
+      "value": "{60}",
       "type": "sizing"
     },
     "blue-warm": {
@@ -816,7 +816,7 @@
       }
     },
     "sz-2xl": {
-      "value": "{sp-68}",
+      "value": "{68}",
       "type": "sizing"
     },
     "gray": {
@@ -902,31 +902,31 @@
       "type": "lineHeights"
     },
     "br-2xs": {
-      "value": "4px",
+      "value": "$04",
       "type": "borderRadius"
     },
     "br-xs": {
-      "value": "8px",
+      "value": "$08",
       "type": "borderRadius"
     },
     "br-sm": {
-      "value": "{sp-12}",
+      "value": "{12}",
       "type": "borderRadius"
     },
     "br-md": {
-      "value": "{sp-16}",
+      "value": "{16}",
       "type": "borderRadius"
     },
     "br-lg": {
-      "value": "{sp-20}",
+      "value": "{20}",
       "type": "borderRadius"
     },
     "br-xl": {
-      "value": "{sp-24}",
+      "value": "{24}",
       "type": "borderRadius"
     },
     "br-2xl": {
-      "value": "{sp-28}",
+      "value": "{28}",
       "type": "borderRadius"
     },
     "04": {

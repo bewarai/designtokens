@@ -684,27 +684,33 @@
       },
       "heading-xl": {
         "value": "{desktop.DT-font-size-12}",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "H1"
       },
       "heading-l": {
         "value": "{desktop.DT-font-size-10}",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "H2"
       },
       "heading-m": {
         "value": "{desktop.DT-font-size-8}",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "H3"
       },
       "heading-s": {
         "value": "{desktop.DT-font-size-7}",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "H4"
       },
       "heading-xs": {
         "value": "{desktop.DT-font-size-6}",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "H5"
       },
       "heading-xxs": {
         "value": "{desktop.DT-font-size-5}",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "H6"
       }
     },
     "paragraphes": {
@@ -882,5 +888,6 @@
       },
       "type": "boxShadow"
     }
-  }
+  },
+  "$themes": []
 }

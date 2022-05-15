@@ -743,16 +743,6 @@
         "type": "fontSizes"
       }
     },
-    "footer": {
-      "a": {
-        "value": "{desktop.DT-font-size-3}",
-        "type": "fontSizes"
-      },
-      "contact": {
-        "value": "{desktop.DT-font-size-3}",
-        "type": "fontSizes"
-      }
-    },
     "xxl": {
       "value": "$68",
       "type": "sizing"

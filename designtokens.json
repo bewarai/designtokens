@@ -830,11 +830,11 @@
       "type": "lineHeights"
     },
     "br-2xs": {
-      "value": "$4",
+      "value": "4px",
       "type": "borderRadius"
     },
     "br-xs": {
-      "value": "$8",
+      "value": "8px",
       "type": "borderRadius"
     },
     "br-sm": {

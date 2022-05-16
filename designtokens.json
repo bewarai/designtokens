@@ -786,6 +786,10 @@
       }
     },
     "paragraphes": {
+      "body-3xl": {
+        "value": "$desktop.DT-font-size-8",
+        "type": "fontSizes"
+      },
       "body-2xl": {
         "value": "{desktop.DT-font-size-7}",
         "type": "fontSizes"

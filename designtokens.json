@@ -834,6 +834,10 @@
       "body-2xs": {
         "value": "{desktop.DT-font-size-1}",
         "type": "fontSizes"
+      },
+      "body-3xs": {
+        "value": "{root.RT-font-size-0}",
+        "type": "fontSizes"
       }
     },
     "sz-2xl": {

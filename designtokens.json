@@ -952,6 +952,16 @@
     "border": {
       "value": "$01",
       "type": "borderWidth"
+    },
+    "quotes": {
+      "blockquote": {
+        "value": "{desktop.DT-font-size-8}",
+        "type": "fontSizes"
+      },
+      "figcaption": {
+        "value": "$paragraphes.body-m",
+        "type": "fontSizes"
+      }
     }
   },
   "Secondary": {

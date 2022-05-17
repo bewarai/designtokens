@@ -207,16 +207,32 @@
         "value": "{root.RT-font-size-0} * 3.896",
         "type": "fontSizes"
       },
+      "DT-font-size-13": {
+        "value": "{root.RT-font-size-0} * 4.363",
+        "type": "fontSizes"
+      },
       "DT-font-size-14": {
         "value": "{root.RT-font-size-0} * 4.887",
+        "type": "fontSizes"
+      },
+      "DT-font-size-15": {
+        "value": "{root.RT-font-size-0} * 5.474",
         "type": "fontSizes"
       },
       "DT-font-size-16": {
         "value": "{root.RT-font-size-0} * 6.13",
         "type": "fontSizes"
       },
+      "DT-font-size-17": {
+        "value": "{root.RT-font-size-0} * 6.866",
+        "type": "fontSizes"
+      },
       "DT-font-size-18": {
         "value": "{root.RT-font-size-0} * 7.69",
+        "type": "fontSizes"
+      },
+      "DT-font-size-19": {
+        "value": "{root.RT-font-size-0} * 8.613",
         "type": "fontSizes"
       }
     },

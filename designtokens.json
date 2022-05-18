@@ -1031,23 +1031,23 @@
       "primary-button": {
         "contained": {
           "default": {
-            "value": "{red-cool.v.red-cool-50v}",
+            "value": "{blue-warm.v.blue-warm-60v}",
             "type": "color"
           },
           "hover": {
-            "value": "$red-cool.v.red-cool-60v",
+            "value": "{blue-warm.v.blue-warm-70v}",
             "type": "color"
           },
           "focus": {
-            "value": "$red-cool.v.red-cool-60v",
+            "value": "{blue-warm.v.blue-warm-70v}",
             "type": "color"
           },
           "active": {
-            "value": "$red-cool.v.red-cool-60v",
+            "value": "{blue-warm.v.blue-warm-80v}",
             "type": "color"
           },
           "loading": {
-            "value": "$red-cool.v.red-cool-40v",
+            "value": "{blue-warm.v.blue-warm-50v}",
             "type": "color"
           },
           "disabled": {

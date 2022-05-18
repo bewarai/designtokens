@@ -786,7 +786,7 @@
         "type": "fontSizes",
         "description": "H3"
       },
-      "heading-s": {
+      "heading-sm": {
         "value": "{desktop.DT-font-size-8}",
         "type": "fontSizes",
         "description": "H4"
@@ -819,7 +819,7 @@
         "value": "{desktop.DT-font-size-5}",
         "type": "fontSizes"
       },
-      "body-s": {
+      "body-sm": {
         "value": "{desktop.DT-font-size-3}",
         "type": "fontSizes"
       },
@@ -1005,7 +1005,7 @@
         "type": "fontSizes",
         "description": "h3"
       },
-      "display-s": {
+      "display-sm": {
         "value": "{desktop.DT-font-size-12}",
         "type": "fontSizes",
         "description": "h4"

@@ -264,40 +264,42 @@
       "value": "Black",
       "type": "fontWeights"
     },
-    "base": {
-      "primary-text": {
-        "value": "{blue-warm.v.blue-warm-80v}",
-        "type": "color"
+    "theme": {
+      "base": {
+        "primary-text": {
+          "value": "{blue-warm.v.blue-warm-80v}",
+          "type": "color"
+        },
+        "primary-background": {
+          "value": "$absolute.white",
+          "type": "color"
+        },
+        "white": {
+          "value": "$absolute.white",
+          "type": "color"
+        },
+        "secondary-background": {
+          "value": "$gray-cool.gray-cool-2",
+          "type": "color"
+        }
       },
-      "primary-background": {
-        "value": "$absolute.white",
-        "type": "color"
+      "primary": {
+        "maincolor": {
+          "value": "{blue-warm.v.blue-warm-60v}",
+          "type": "color"
+        }
       },
-      "white": {
-        "value": "$absolute.white",
-        "type": "color"
+      "secondary": {
+        "maincolor": {
+          "value": "{blue-warm.v.blue-warm-60v}",
+          "type": "color"
+        }
       },
-      "secondary-background": {
-        "value": "$gray-cool.gray-cool-2",
-        "type": "color"
-      }
-    },
-    "primary": {
-      "maincolor": {
-        "value": "{blue-warm.v.blue-warm-60v}",
-        "type": "color"
-      }
-    },
-    "secondary": {
-      "maincolor": {
-        "value": "{blue-warm.v.blue-warm-60v}",
-        "type": "color"
-      }
-    },
-    "tertiary": {
-      "maincolor": {
-        "value": "{blue-cool.v.blue-cool-10v}",
-        "type": "color"
+      "tertiary": {
+        "maincolor": {
+          "value": "{blue-cool.v.blue-cool-10v}",
+          "type": "color"
+        }
       }
     },
     "shadow": {
@@ -1035,7 +1037,7 @@
       "primary-button": {
         "contained": {
           "default": {
-            "value": "{primary.maincolor}",
+            "value": "{theme.primary.maincolor}",
             "type": "color"
           },
           "hover": {
@@ -1087,7 +1089,7 @@
         },
         "outlined": {
           "default": {
-            "value": "{secondary.maincolor}",
+            "value": "{theme.secondary.maincolor}",
             "type": "color"
           },
           "hover": {
@@ -1155,36 +1157,38 @@
       "value": "Raleway",
       "type": "fontFamilies"
     },
-    "base": {
-      "primary-text": {
-        "value": "$absolute.white",
-        "type": "color"
+    "theme": {
+      "base": {
+        "primary-text": {
+          "value": "$absolute.white",
+          "type": "color"
+        },
+        "primary-background": {
+          "value": "{blue-cool.v.blue-cool-80v}",
+          "type": "color"
+        },
+        "secondary-background": {
+          "value": "{blue-cool.v.blue-cool-90v}",
+          "type": "color"
+        }
       },
-      "primary-background": {
-        "value": "{blue-cool.v.blue-cool-80v}",
-        "type": "color"
+      "primary": {
+        "maincolor": {
+          "value": "{blue.v.blue-40v}",
+          "type": "color"
+        }
       },
-      "secondary-background": {
-        "value": "{blue-cool.v.blue-cool-90v}",
-        "type": "color"
-      }
-    },
-    "primary": {
-      "maincolor": {
-        "value": "{blue.v.blue-40v}",
-        "type": "color"
-      }
-    },
-    "secondary": {
-      "maincolor": {
-        "value": "$absolute.white",
-        "type": "color"
-      }
-    },
-    "tertiary": {
-      "maincolor": {
-        "value": "{blue.v.blue-40v}",
-        "type": "color"
+      "secondary": {
+        "maincolor": {
+          "value": "$absolute.white",
+          "type": "color"
+        }
+      },
+      "tertiary": {
+        "maincolor": {
+          "value": "{blue.v.blue-40v}",
+          "type": "color"
+        }
       }
     },
     "shadow": {

@@ -1107,6 +1107,36 @@
             "type": "color"
           }
         }
+      },
+      "info": {
+        "info-2xlt": {
+          "value": "$cyan.v.cyan-5v",
+          "type": "color"
+        },
+        "info-xlt": {
+          "value": "$cyan.v.cyan-10v",
+          "type": "color"
+        },
+        "info-lt": {
+          "value": "$cyan.v.cyan-20v",
+          "type": "color"
+        },
+        "info": {
+          "value": "$cyan.v.cyan-30v",
+          "type": "color"
+        },
+        "info-dk": {
+          "value": "$cyan.v.cyan-40v",
+          "type": "color"
+        },
+        "info-xdk": {
+          "value": "$cyan.v.cyan-50v",
+          "type": "color"
+        },
+        "info-2xdk": {
+          "value": "$cyan.v.cyan-60v",
+          "type": "color"
+        }
       }
     }
   },

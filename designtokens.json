@@ -1026,6 +1026,88 @@
         "value": "$desktop.DT-font-size-10",
         "type": "fontSizes"
       }
+    },
+    "state": {
+      "primary-button": {
+        "contained": {
+          "default": {
+            "value": "{red-cool.v.red-cool-50v}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$red-cool.v.red-cool-60v",
+            "type": "color"
+          },
+          "focus": {
+            "value": "$red-cool.v.red-cool-60v",
+            "type": "color"
+          },
+          "active": {
+            "value": "$red-cool.v.red-cool-60v",
+            "type": "color"
+          },
+          "loading": {
+            "value": "$red-cool.v.red-cool-40v",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "$gray-cool.gray-cool-5",
+            "type": "color"
+          }
+        },
+        "contained-light": {
+          "default": {
+            "value": "{blue-cool.v.blue-cool-30v}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$blue-cool.v.blue-cool-40v",
+            "type": "color"
+          },
+          "focus": {
+            "value": "$blue-cool.v.blue-cool-40v",
+            "type": "color"
+          },
+          "active": {
+            "value": "$blue-cool.v.blue-cool-50v",
+            "type": "color"
+          },
+          "loading": {
+            "value": "{blue-cool.v.blue-cool-20v}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "$gray-cool.gray-cool-5",
+            "type": "color"
+          }
+        },
+        "outlined": {
+          "default": {
+            "value": "{blue-cool.v.blue-cool-30v}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$blue-cool.v.blue-cool-40v",
+            "type": "color"
+          },
+          "focus": {
+            "value": "$blue-cool.v.blue-cool-40v",
+            "type": "color"
+          },
+          "active": {
+            "value": "$blue-cool.v.blue-cool-50v",
+            "type": "color"
+          },
+          "loading": {
+            "value": "{blue-cool.v.blue-cool-20v}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "$gray-cool.gray-cool-5",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "Secondary": {
